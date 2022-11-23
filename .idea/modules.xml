@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Snowman.iml" filepath="$PROJECT_DIR$/.idea/Snowman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowman/snowman.iml" filepath="$PROJECT_DIR$/snowman/snowman.iml" />
+    </modules>
+  </component>
+</project>
